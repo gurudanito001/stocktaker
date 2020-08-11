@@ -1,2 +1,2 @@
 # stocktaker
-Inventory Applicatioin
+Inventory Application
